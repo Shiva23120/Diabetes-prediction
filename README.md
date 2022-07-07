@@ -5,5 +5,6 @@ libraries used:
  ->matplotlib
  ->seaborn
  ->pandas
+ ->numpy
  
  
